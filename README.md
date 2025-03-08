@@ -1,5 +1,5 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 
+###  Date: 03/02/25
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
@@ -11,7 +11,7 @@ To Develop a python program to Plot a time series data (population/ market price
 4. Plot the data according to need and can be altered monthly, or yearly.
 5. Display the graph.
 # PROGRAM:
-
+```
 
 
 import pandas as pd
@@ -37,7 +37,7 @@ plt.tight_layout()  # Adjust layout to avoid clipping
 plt.show()
 
 
-
+```
 
 
 
